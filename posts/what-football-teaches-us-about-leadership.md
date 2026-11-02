@@ -1,17 +1,31 @@
-# Leadership is a team sport
+# Football has a lot to teach us about leadership
 
-Football gives us a simple but powerful view of leadership. A team can have talented players, a good plan and a strong manager — but success still depends on how people work together when the pressure rises.
+One thing I enjoy about football is that it gives us so many examples of people working together under pressure. A team can have talented players and a good plan, but none of that guarantees success.
 
-## Trust is built before the big moment
+How people communicate, respond to setbacks and support each other can make a huge difference.
 
-Players need to understand their roles and trust the people around them. The same is true in any team. Good collaboration is not something we can switch on only when a deadline arrives. It grows through communication, preparation and consistency.
+## Trust is built long before the important match
 
-## Decisions are part of the game
+Players need to know their roles and trust the people around them. That trust does not suddenly appear on match day. It grows through training, communication and the way teammates treat each other every day.
 
-A manager has to make difficult choices: when to change the plan, when to give someone a chance and when to take a risk. There is rarely perfect information. Leadership means making the best decision possible, then learning from the result.
+Workplaces are not so different. A team is more likely to handle a difficult deadline when people have built trust before the pressure arrives.
 
-## Accountability matters
+## Leaders have to make difficult decisions
 
-A team cannot improve if everyone looks for someone else to blame. Honest reflection after a win or a loss helps people get better.
+A football manager has to decide when to change the formation, who should start and how to respond when the original plan is not working.
 
-My biggest takeaway from football is that leadership is not only about being the person in charge. It is about helping a group move in the same direction — and staying responsible when things do not go as planned.
+There is rarely a perfect answer. A decision may work, or it may not. What matters is being willing to make a thoughtful choice, explain it and learn from what happens.
+
+## Accountability makes a team stronger
+
+After a defeat, it is tempting to blame one player, the referee or the conditions. But a team improves when people are honest about their own part in what happened.
+
+That does not mean blaming everyone. It means being able to talk about mistakes and work out how to do better next time.
+
+## Leadership is not only about the person wearing the armband
+
+A captain has a visible role, but leadership can come from anyone on the pitch. It might be the player who keeps encouraging others, the one who stays calm after conceding a goal or the teammate who helps someone learn from a mistake.
+
+Titles can give people responsibility, but everyday actions are what make others trust them.
+
+Football reminds me that good leadership is less about having all the answers and more about helping people work towards the same goal. And just like in the game, that takes practice.
