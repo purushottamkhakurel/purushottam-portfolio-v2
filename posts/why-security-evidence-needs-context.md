@@ -1,43 +1,39 @@
-# Security evidence needs context, not just a checkbox
+# Security evidence makes more sense when you look at the context
 
-In security reviews, evidence is important. Policies, audit reports, certifications and technical documents help organizations understand how a company manages security.
+Policies, audit reports, certificates and technical documents are a big part of security reviews. They help a customer understand how an organization approaches security.
 
-But collecting a document is not the same as validating a control.
+But there is something I think is easy to overlook: having a document does not necessarily mean that it proves the control being discussed.
 
-A file can look complete and still fail to answer the question being asked. It may be outdated, cover a different product or describe a process that does not apply to the service under review.
+A policy might describe what an organization intends to do. An audit report might cover only certain systems or a specific period. A certificate might apply to one service but not another. The details matter.
 
-## Four questions to ask about evidence
+## Does the evidence answer the actual question?
 
-**1. Is it relevant?**
+This is where I would start. Before accepting a document, connect it to the requirement being reviewed.
 
-Connect the evidence to the exact control or requirement. A general information security policy may explain an organization's approach, but it may not prove that a specific technical safeguard is operating.
+For example, an information security policy can explain an organization's overall approach. It may not, by itself, show that a particular technical safeguard is working. The evidence needs to support the claim, not just mention a similar subject.
 
-**2. Is it current?**
+## Check the date
 
-Check dates, reporting periods and review cycles. An old document may still provide background, but it should not automatically be treated as confirmation of the current state.
+Security practices change. Systems are updated, teams change and processes evolve. A document from several years ago may still be useful background, but it should not automatically be treated as proof of the current situation.
 
-**3. Is the scope clear?**
+Look at the reporting period, issue date and any review date that is available.
 
-Audit reports and certifications have boundaries. Look at the systems, services, locations and time periods covered. If the service being assessed is outside that scope, say so.
+## Understand the scope
 
-**4. Does it support the response?**
+This is especially important when reviewing audit reports and certifications. Check which services, systems, locations and time periods are included.
 
-Compare the written answer with the evidence. If the response says a control is applied across all environments but the document covers only one environment, the difference needs clarification.
+If a report covers one product but the customer is assessing another, that difference should be made clear. It does not necessarily mean the vendor has poor security. It means the evidence has a boundary.
 
-## Be careful with assumptions
+## Compare the document with the answer
 
-Evidence review requires judgment. A reviewer should not assume that a control exists because a related policy mentions it. Equally, a missing attachment does not always mean the control is absent; the organization may need to provide another form of confirmation.
+A response might say that a control applies across the whole organization, while the evidence only covers one environment. That is a reason to ask for clarification.
 
-The responsible approach is to separate what is confirmed, what is unclear and what is not evidenced. That distinction makes findings more accurate and fair.
+The aim is not to reject evidence for small technicalities. It is to understand exactly what it confirms and what it does not.
 
-## Communicate the gap clearly
+## Say what you know, and what you do not
 
-When evidence is insufficient, explain exactly what is missing and why it matters. A focused follow-up question is more useful than a vague request for “more documentation.”
+I find this distinction important in security assurance. There is a difference between a control being confirmed, a control being unclear and a control having no supporting evidence in the material provided.
 
-For example, ask for the reporting period, scope or specific control detail needed to validate the response.
+Those are not the same finding, and they should not be written as if they are.
 
-## The bigger picture
-
-Evidence review is not paperwork for its own sake. It helps customers understand the strength and limits of a security claim.
-
-**My takeaway:** Good security assurance is not about counting documents. It is about connecting each claim to relevant, current and appropriately scoped evidence—and being honest about what that evidence does not prove.
+Good evidence review is not about collecting the biggest folder of documents. It is about asking sensible questions and making sure the conclusion is supported by what was actually reviewed.
