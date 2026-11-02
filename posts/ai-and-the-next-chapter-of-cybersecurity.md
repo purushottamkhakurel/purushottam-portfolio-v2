@@ -1,22 +1,33 @@
-# AI is changing the security conversation
+# AI is changing the way we think about cybersecurity
 
-Artificial intelligence is becoming part of everyday security work. It can help teams process large amounts of information, summarize documents, identify patterns and reduce repetitive tasks.
+AI is becoming part of more products and more everyday work. In cybersecurity, it can help teams review large amounts of information, spot patterns, summarize findings and reduce some of the repetitive work that takes up time.
 
-That creates real opportunities — especially for teams that spend significant time reviewing evidence and communicating risk.
+There is real potential here. But I do not think the conversation should stop at what AI can do. We also need to ask what could go wrong when people start relying on it.
 
-## Where AI can help
+## There are useful ways to apply it
 
-- **Faster analysis:** Organize large volumes of security information.
-- **Better discovery:** Highlight patterns or inconsistencies for a human reviewer.
-- **Clearer communication:** Turn technical material into understandable summaries.
-- **Less repetitive work:** Support drafting, classification and evidence mapping.
+Security teams deal with a lot of information. Alerts, reports, logs, policies and assessment documents can all take time to review.
 
-## New risks need attention too
+AI tools may help organize that information, highlight things that deserve a closer look or turn technical details into a clearer summary. Used carefully, that can give people more time to investigate and make decisions.
 
-AI systems can produce inaccurate answers, expose sensitive information or reflect weaknesses in the data and processes used to build them. Organizations need to think about data handling, access, human review, transparency and accountability.
+The important words are “help” and “carefully”. A useful summary is not the same as a verified finding.
 
-## Keep people in the loop
+## The risks are real too
 
-AI should support professional judgment, not replace it. A reviewer still needs to verify evidence, understand context and take responsibility for the final decision.
+AI systems can produce inaccurate information, expose sensitive data or give answers that sound more certain than they should. The quality of the result also depends on the information and instructions provided.
 
-The next chapter of cybersecurity will not be about using AI everywhere. It will be about using it thoughtfully, with clear safeguards and measurable value.
+Organizations need to think about what data employees are allowed to share, who can access AI tools and how the output is checked before it is used.
+
+## Human judgment still matters
+
+Imagine using an AI tool to summarize a security report. It may save time, but someone still needs to check whether the summary reflects the report correctly, whether important limitations were missed and whether the conclusion makes sense.
+
+The same applies to incident analysis and other security work. AI can support the process, but people need to understand the context and remain responsible for decisions.
+
+## Use it where it makes sense
+
+The next stage of cybersecurity will probably include more AI tools, but using them everywhere is not a strategy by itself.
+
+Organizations should be clear about the problem they want to solve, the information involved and the safeguards needed. They should also check whether the tool is actually improving the work.
+
+I am interested in seeing how this develops. The opportunity is not just to do security work faster, but to make better use of people's time while keeping accuracy and accountability in place.
