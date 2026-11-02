@@ -6,7 +6,7 @@ Responsive personal portfolio and Markdown-powered blog built with plain HTML, C
 1. Open **Settings → Pages** in this repository.
 2. Under **Build and deployment**, choose **Deploy from a branch**.
 3. Select **main** and **/(root)**, then Save.
-4. The site will publish at https://purushottamkhakurel.github.io/purushottam-portfolio-v2/ (allow a few minutes).
+4. The site will publish at https://purushottamkhakurel.com.np/  (allow a few minutes).
 
 ## Publish a blog post
 1. Add a Markdown file inside `posts/`, e.g. `my-new-post.md`.
