@@ -149,3 +149,63 @@ body,.site-header,.section-muted,.ticker,.writing-feature,.focus-grid article,.p
   :root[data-theme="light"] .main-nav a{border-bottom-color:var(--line)}
   .main-nav .theme-toggle{width:max-content}
 }
+
+
+/* A warmer, more personal editorial palette */
+:root{
+  --bg:#171916;
+  --panel:#20231f;
+  --text:#e9e5dc;
+  --muted:#aaa99e;
+  --line:#353a32;
+  --accent:#c98768;
+  --header-bg:rgba(23,25,22,.94);
+  --section-bg:#1d201c;
+  --feature-bg:#292b25;
+  --card-bg:#22251f;
+  --raised-bg:#1d201c;
+  --surface-1:#1d201c;
+  --surface-2:#22251f;
+  --surface-3:#292b25;
+  --copy:#c0beb3;
+  --copy-strong:#dedbd1;
+  --nav-copy:#c9c6bb;
+  --control-border:#45483f;
+  --shadow:0 14px 34px rgba(0,0,0,.18);
+}
+:root[data-theme="light"]{
+  color-scheme:light;
+  --bg:#f2efe7;
+  --panel:#faf8f2;
+  --text:#292c25;
+  --muted:#77776b;
+  --line:#ded9cd;
+  --accent:#955d43;
+  --header-bg:rgba(242,239,231,.94);
+  --section-bg:#e9e5da;
+  --feature-bg:#e4ded1;
+  --card-bg:#faf8f2;
+  --raised-bg:#f7f4ec;
+  --surface-1:#e9e5da;
+  --surface-2:#faf8f2;
+  --surface-3:#e4ded1;
+  --copy:#55574d;
+  --copy-strong:#393c33;
+  --nav-copy:#55574d;
+  --control-border:#d0c9ba;
+  --shadow:0 12px 28px rgba(59,48,34,.07);
+}
+:root[data-theme="light"] .hero h1 span,
+:root[data-theme="light"] .about-grid h2 span{color:#858476}
+:root[data-theme="light"] .visual-frame{background:#faf8f2;border-color:#d5cebf}
+:root[data-theme="light"] .orbit-note{background:var(--accent);color:#fff8f0}
+:root[data-theme="light"] .brand-mark{background:var(--accent);color:#fff8f0}
+:root[data-theme="light"] .button{background:var(--accent);color:#fff8f0}
+:root[data-theme="light"] .filter.active,
+:root[data-theme="light"] .filter:hover{background:var(--accent);border-color:var(--accent);color:#fff8f0}
+:root[data-theme="light"] .theme-toggle:hover{border-color:var(--accent)}
+:root[data-theme="light"] .project-list a:hover{background:#e9e5da}
+:root[data-theme="light"] .main-nav a:hover,
+:root[data-theme="light"] .main-nav .active{color:var(--accent)}
+.button:hover{box-shadow:0 7px 22px rgba(201,135,104,.18)}
+:root[data-theme="light"] .button:hover{box-shadow:0 7px 22px rgba(149,93,67,.16)}
