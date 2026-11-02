@@ -63,3 +63,13 @@
 .hero-visual{position:relative;max-width:410px;width:100%;justify-self:end}
 .hero-portrait{display:none}
 @media(max-width:680px){.hero-visual{width:min(76%,310px);justify-self:center}}
+
+
+/* Smooth, continuous ticker motion */
+.ticker{display:flex;align-items:center;}
+.ticker-track{display:flex;width:max-content;flex:0 0 auto;animation:ticker-scroll 34s linear infinite;}
+.ticker-track span{display:block;flex:0 0 auto;padding:16px 24px;color:var(--accent);font:10px var(--mono);letter-spacing:1.4px;white-space:nowrap;}
+.ticker-track i{font-style:normal;color:var(--text);padding:0 9px;opacity:.72;}
+.ticker:hover .ticker-track{animation-play-state:paused;}
+@keyframes ticker-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none;}}
