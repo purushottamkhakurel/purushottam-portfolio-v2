@@ -53,3 +53,8 @@
 .theme-toggle:hover{border-color:var(--accent);transform:translateY(-1px)}
 .theme-icon{font-size:15px;line-height:1}
 @media(max-width:680px){.main-nav .theme-toggle{align-self:flex-start;margin:14px 0 0;padding:10px 14px}.theme-label{display:inline}}
+
+/* Clean hero portrait without decorative frame or labels */
+.hero-visual{max-width:410px;width:100%;justify-self:end}
+.hero-portrait{display:block;width:100%;height:446px;object-fit:cover;object-position:center 25%;filter:saturate(.85)}
+@media(max-width:680px){.hero-visual{width:min(76%,310px);justify-self:center}.hero-portrait{height:300px}}
