@@ -321,3 +321,12 @@ body{background:var(--bg);color:var(--text)}
  .site-footer{gap:15px}.site-footer>span{order:3;width:100%}
 }
 @media(prefers-reduced-motion:reduce){.portrait-wrap,.portrait-note{animation:none!important}}
+
+
+/* Single-pass ticker: no duplicated labels, evenly spaced topics */
+.ticker{overflow:hidden;display:flex;align-items:center;}
+.ticker-track{display:flex;width:max-content;flex:0 0 auto;align-items:center;gap:clamp(28px,5vw,64px);padding:16px 0;animation:ticker-single-pass 36s linear infinite!important;}
+.ticker-track span{display:block;flex:0 0 auto;padding:0;color:var(--accent);font:10px var(--mono);letter-spacing:1.4px;white-space:nowrap;}
+.ticker-track span:not(:last-child)::after{content:"✳";color:var(--text);opacity:.72;margin-left:clamp(28px,5vw,64px);}
+@keyframes ticker-single-pass{from{transform:translateX(100vw)}to{transform:translateX(-100%)}}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none!important;justify-content:center;flex-wrap:wrap;width:100%;gap:12px 28px;padding:16px 20px;}}
