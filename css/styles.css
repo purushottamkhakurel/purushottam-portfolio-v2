@@ -72,3 +72,80 @@
 .ticker-track i{font-style:normal;color:var(--text);padding:0 9px;opacity:.72;}
 .ticker:hover .ticker-track{animation-play-state:paused;}
 @keyframes ticker-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+
+/* Theme consistency and contrast polish */
+:root{
+  --surface-1:#15181e;
+  --surface-2:#191d24;
+  --surface-3:#20252b;
+  --copy:#b3b6bd;
+  --copy-strong:#d0d2d6;
+  --nav-copy:#c0c2c6;
+  --control-border:#383e48;
+  --shadow:0 12px 32px rgba(0,0,0,.16);
+}
+:root[data-theme="light"]{
+  --surface-1:#e9ede5;
+  --surface-2:#ffffff;
+  --surface-3:#e2e8dc;
+  --copy:#4e584a;
+  --copy-strong:#333c30;
+  --nav-copy:#4f594b;
+  --control-border:#c5cdbd;
+  --shadow:0 12px 32px rgba(44,62,32,.09);
+}
+body,.site-header,.section-muted,.ticker,.writing-feature,.focus-grid article,.post-card,.feature-post,.filter,.theme-toggle{
+  transition:background-color .22s ease,color .22s ease,border-color .22s ease;
+}
+:root[data-theme="light"] .site-header{background:rgba(245,246,242,.92);border-bottom-color:var(--line)}
+:root[data-theme="light"] .main-nav{color:var(--nav-copy)}
+:root[data-theme="light"] .hero-kicker,
+:root[data-theme="light"] .section-heading>span,
+:root[data-theme="light"] .focus-grid label,
+:root[data-theme="light"] .post-meta,
+:root[data-theme="light"] .feature-post>span{color:var(--accent)}
+:root[data-theme="light"] .hero-lede,
+:root[data-theme="light"] .about-grid p,
+:root[data-theme="light"] .writing-grid p,
+:root[data-theme="light"] .blog-hero>p{color:var(--copy)}
+:root[data-theme="light"] .section-muted,
+:root[data-theme="light"] .ticker{background:var(--surface-1)}
+:root[data-theme="light"] .focus-grid article,
+:root[data-theme="light"] .post-card{background:var(--surface-2);border-color:var(--line);box-shadow:var(--shadow)}
+:root[data-theme="light"] .focus-grid p,
+:root[data-theme="light"] .post-card p{color:var(--copy)}
+:root[data-theme="light"] .writing-feature{background:var(--surface-3)}
+:root[data-theme="light"] .feature-post{background:var(--surface-2);border-color:var(--line);box-shadow:var(--shadow)}
+:root[data-theme="light"] .feature-bottom,
+:root[data-theme="light"] .post-card-bottom,
+:root[data-theme="light"] .article-foot{color:var(--muted)}
+:root[data-theme="light"] .project-list a:hover{background:var(--surface-1)}
+:root[data-theme="light"] .filter{background:var(--surface-2);border-color:var(--control-border);color:var(--text)}
+:root[data-theme="light"] .filter.active,
+:root[data-theme="light"] .filter:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+:root[data-theme="light"] .article-body{color:var(--copy-strong)}
+:root[data-theme="light"] .article-deck,
+:root[data-theme="light"] .article-body blockquote{color:var(--copy)}
+:root[data-theme="light"] .visual-frame{background:var(--surface-2);border-color:var(--line);box-shadow:var(--shadow)}
+:root[data-theme="light"] .frame-top,
+:root[data-theme="light"] .frame-bottom{color:var(--muted)}
+:root[data-theme="light"] .theme-toggle{background:var(--surface-2);border-color:var(--line);color:var(--text)}
+:root[data-theme="light"] .menu-toggle span{background:var(--text)}
+:root[data-theme="light"] .main-nav a:hover,
+:root[data-theme="light"] .main-nav .active{color:var(--accent)}
+:root[data-theme="light"] .button{background:var(--accent);color:#fff}
+:root[data-theme="light"] .brand-mark{background:var(--accent);color:#fff}
+:root[data-theme="light"] .orbit-note{background:var(--accent);color:#17200e}
+:root[data-theme="light"] .article-body a{color:var(--accent)}
+:root[data-theme="light"] .project-list span{color:var(--accent)}
+:root[data-theme="light"] .project-list a{border-bottom-color:var(--line)}
+:root[data-theme="light"] .nav-contact{border-color:var(--line)}
+.theme-toggle:focus-visible,.main-nav a:focus-visible,.button:focus-visible,.filter:focus-visible{
+  outline:2px solid var(--accent);outline-offset:3px;
+}
+@media(max-width:680px){
+  :root[data-theme="light"] .main-nav{background:var(--surface-2);box-shadow:var(--shadow)}
+  :root[data-theme="light"] .main-nav a{border-bottom-color:var(--line)}
+  .main-nav .theme-toggle{width:max-content}
+}
