@@ -1,41 +1,43 @@
-# Vendor risk assessment is more than completing a questionnaire
+# A vendor risk assessment should go beyond the questionnaire
 
-A security questionnaire is often one of the first things a vendor sees during a customer review. It is useful, but it is not the whole assessment.
+If you have ever worked through a security questionnaire, you know how quickly the questions can add up. One asks about access controls, another asks about backups, and before long you are looking at a long list of answers and supporting documents.
 
-A vendor risk assessment should help an organization understand the risk of relying on another company. That means looking beyond whether every question has an answer and asking whether the answers are relevant, supported and appropriate for the service being provided.
+The questionnaire is useful, but it is only one part of understanding a vendor's security.
 
-## Start with the relationship
+When a company works with a third party, it is trusting that provider with something. It might be customer information, an important business process or access to internal systems. A proper assessment should help the company understand what that trust involves and where the risks are.
 
-Not every vendor creates the same level of risk. A provider that processes sensitive customer information or supports a critical business service deserves a different level of attention from a supplier with limited access.
+## First, understand what the vendor actually does
 
-Before reviewing documents, understand:
+I think this is the part that gives the rest of the review its direction. A vendor that handles sensitive customer data should not automatically be assessed in the same way as a supplier with no access to that information.
 
-- What service does the vendor provide?
+Some useful questions to ask are:
+
+- What service is the vendor providing?
 - What information will it access, store or process?
-- Will it connect to internal systems?
+- Does it connect to the company's systems?
 - How important is the service to daily operations?
-- What would happen if the service became unavailable?
+- What would happen if the service stopped working?
 
-This context helps teams focus their effort where it matters most.
+Without this context, it is easy to spend time checking documents without understanding which risks matter most.
 
-## Evidence gives answers context
+## Answers need evidence behind them
 
-A questionnaire tells us what a vendor says about its security practices. Supporting evidence helps us understand those statements.
+A questionnaire tells us what a vendor says about its security practices. Evidence helps us see whether those answers are supported.
 
-Depending on the question, useful evidence may include security policies, audit reports, penetration test summaries, business continuity plans or technical documentation. Reviewers should check whether the evidence is current, relevant to the service and consistent with the response.
+That evidence could include policies, audit reports, penetration test summaries, business continuity plans or technical documentation. The right document depends on the question being reviewed.
 
-A document should not be treated as proof simply because it exists. Its scope, date and limitations matter.
+It is also worth checking the details. Is the document current? Does it cover the service being assessed? Does it actually support the answer, or is it only related to the topic?
 
-## Record gaps clearly
+A document being attached does not automatically make an answer correct.
 
-Sometimes evidence is missing, a response is unclear or a control does not fully meet the requirement. The right approach is not to guess.
+## Be clear about what is missing
 
-Document the gap, explain why it matters, request clarification where appropriate and identify who owns the next step. This creates a useful record for decision-makers and avoids turning assumptions into accepted facts.
+Sometimes an answer is incomplete. Sometimes the evidence does not cover the full requirement. There may also be a perfectly reasonable explanation that simply has not been provided yet.
 
-## Make the assessment useful
+In those situations, it is better to record what is known, explain what still needs clarification and ask a focused follow up question. Guessing may make a review look complete, but it does not make the risk go away.
 
-The goal is not to produce the longest report or close every questionnaire as quickly as possible. The goal is to help the business make an informed decision.
+## The point is to help someone make a decision
 
-A good assessment connects the vendor's service, the information involved, the evidence reviewed and the risks that remain. It also gives teams a way to revisit important risks when the service or relationship changes.
+A vendor assessment should not be judged only by how quickly a questionnaire is closed. It should help the customer understand the service, the evidence reviewed and the risks that remain.
 
-**My takeaway:** Third-party risk work is strongest when it combines structured questions with context, evidence and clear communication. A completed questionnaire is a milestone—not the finish line.
+That is what makes the work useful. A completed questionnaire is a good milestone, but the real value comes from understanding what the answers mean.
