@@ -404,3 +404,12 @@ body{background:var(--bg);color:var(--text)}
  .newsletter-home{margin-top:30px;padding-top:22px;gap:16px}
  .newsletter-home>a{width:100%;min-width:0}
 }
+
+/* Keep external-link arrow marks out of the mobile layout */
+@media(max-width:680px){
+  .hero-actions .button span,
+  .hero-actions .text-link span,
+  .practice-mark,
+  .project-list a>i,
+  .post-card-bottom span:last-child{display:none!important}
+}
