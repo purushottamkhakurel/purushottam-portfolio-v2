@@ -1,5 +1,14 @@
 [
   {
+    "slug": "mfa-is-not-a-checkbox-what-a-good-security-review-should-ask",
+    "title": "MFA Is Not a Checkbox: What a Good Security Review Should Ask",
+    "date": "2026-11-04",
+    "category": "Cybersecurity",
+    "excerpt": "Checking that MFA is enabled is only the start. A useful review looks at authentication methods, privileged access, recovery, exceptions and evidence.",
+    "readingTime": 5,
+    "file": "mfa-is-not-a-checkbox-what-a-good-security-review-should-ask.md"
+  },
+  {
     "slug": "vendor-risk-assessment-beyond-the-questionnaire",
     "title": "Vendor Risk Assessment Is More Than a Questionnaire",
     "date": "2026-11-02",
