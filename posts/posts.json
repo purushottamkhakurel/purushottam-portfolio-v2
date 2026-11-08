@@ -1,5 +1,14 @@
 [
   {
+    "slug": "risk-acceptance-is-a-decision-not-a-way-to-close-a-finding",
+    "title": "Risk Acceptance Is a Decision, Not a Way to Close a Finding",
+    "date": "2026-11-08",
+    "category": "GRC",
+    "excerpt": "Accepting a security risk should be an informed business decision, with a clear owner, rationale, scope, review date and plan for changing conditions.",
+    "readingTime": 5,
+    "file": "risk-acceptance-is-a-decision-not-a-way-to-close-a-finding.md"
+  },
+  {
     "slug": "mfa-is-not-a-checkbox-what-a-good-security-review-should-ask",
     "title": "MFA Is Not a Checkbox: What a Good Security Review Should Ask",
     "date": "2026-11-04",
