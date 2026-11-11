@@ -1,5 +1,14 @@
 [
   {
+    "slug": "incident-response-plan-first-decisions",
+    "title": "An Incident Response Plan Is Only as Good as Its First Decisions",
+    "date": "2026-11-11",
+    "category": "Cybersecurity",
+    "excerpt": "A useful incident response plan makes roles, escalation, evidence handling, communication and recovery decisions clear before a security incident happens.",
+    "readingTime": 5,
+    "file": "incident-response-plan-first-decisions.md"
+  },
+  {
     "slug": "risk-acceptance-is-a-decision-not-a-way-to-close-a-finding",
     "title": "Risk Acceptance Is a Decision, Not a Way to Close a Finding",
     "date": "2026-11-08",

@@ -5,77 +5,93 @@
     <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/blog.html</link>
     <description>Personal notes on cybersecurity, GRC, AI and football by Purushottam Khakurel.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:55:00 +0545</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:35:00 +0545</lastBuildDate>
     <atom:link href="https://purushottamkhakurel.github.io/purushottam-portfolio-v2/rss.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <item>
-      <title>MFA Is Not a Checkbox: What a Good Security Review Should Ask</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=mfa-is-not-a-checkbox-what-a-good-security-review-should-ask</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=mfa-is-not-a-checkbox-what-a-good-security-review-should-ask</guid>
-      <description>Checking that MFA is enabled is only the start. A useful review looks at authentication methods, privileged access, recovery, exceptions and evidence.</description>
-      <pubDate>Wed, 04 Nov 2026 08:40:00 +0545</pubDate>
+        <item>
+      <title>An Incident Response Plan Is Only as Good as Its First Decisions</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=incident-response-plan-first-decisions</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=incident-response-plan-first-decisions</guid>
+      <description>A useful incident response plan makes roles, escalation, evidence handling, communication and recovery decisions clear before a security incident happens.</description>
+      <pubDate>Wed, 11 Nov 2026 08:35:00 +0545</pubDate>
     </item>
-    <item>
-      <title>Vendor Risk Assessment Is More Than a Questionnaire</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=vendor-risk-assessment-beyond-the-questionnaire</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=vendor-risk-assessment-beyond-the-questionnaire</guid>
-      <description>A useful vendor review looks beyond completed answers to understand the service, the evidence and the risks that remain.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Why Security Evidence Needs Context</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=why-security-evidence-needs-context</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=why-security-evidence-needs-context</guid>
-      <description>A document is not proof by itself. Relevance, scope, freshness and clear validation all matter in security assurance.</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Practical AI Governance Starts with Knowing Where AI Is Used</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=practical-ai-governance-for-security-teams</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=practical-ai-governance-for-security-teams</guid>
-      <description>A practical starting point for managing AI risk: understand the use case, protect data, verify outputs and assign ownership.</description>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Football Teaches Us That Progress Is Built Before Match Day</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-lessons-in-consistency-and-resilience</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-lessons-in-consistency-and-resilience</guid>
-      <description>Consistency, resilience, trust and everyday preparation matter as much as the final score.</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>GRC Is More Than Just Compliance</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=grc-is-more-than-compliance</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=grc-is-more-than-compliance</guid>
-      <description>Good governance, risk management and compliance help organizations make better decisions and build trust.</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Why Security Questionnaires Matter</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=security-questionnaires-why-they-matter</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=security-questionnaires-why-they-matter</guid>
-      <description>A security questionnaire is a structured way to understand how an organization protects information.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>AI and the Next Chapter of Cybersecurity</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-and-the-next-chapter-of-cybersecurity</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-and-the-next-chapter-of-cybersecurity</guid>
-      <description>AI is changing how security teams detect, investigate and explain risk, while introducing new questions of its own.</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>What Football Teaches Us About Leadership</title>
-      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=what-football-teaches-us-about-leadership</link>
-      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=what-football-teaches-us-about-leadership</guid>
-      <description>A football team is a reminder that leadership is built through trust, preparation, accountability and decisions under pressure.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0545</pubDate>
-    </item>
-      <item>
+<item>
       <title>Risk Acceptance Is a Decision, Not a Way to Close a Finding</title>
       <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=risk-acceptance-is-a-decision-not-a-way-to-close-a-finding</link>
       <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=risk-acceptance-is-a-decision-not-a-way-to-close-a-finding</guid>
       <description>Accepting a security risk should be an informed business decision, with a clear owner, rationale, scope, review date and plan for changing conditions.</description>
       <pubDate>Sun, 08 Nov 2026 08:55:00 +0545</pubDate>
     </item>
+<item>
+      <title>MFA Is Not a Checkbox: What a Good Security Review Should Ask</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=mfa-is-not-a-checkbox-what-a-good-security-review-should-ask</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=mfa-is-not-a-checkbox-what-a-good-security-review-should-ask</guid>
+      <description>Checking that MFA is enabled is only the start. A useful review looks at authentication methods, privileged access, recovery, exceptions and evidence.</description>
+      <pubDate>Wed, 04 Nov 2026 08:40:00 +0545</pubDate>
+    </item>
+<item>
+      <title>Vendor Risk Assessment Is More Than a Questionnaire</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=vendor-risk-assessment-beyond-the-questionnaire</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=vendor-risk-assessment-beyond-the-questionnaire</guid>
+      <description>A useful vendor review looks beyond completed answers to understand the service, the evidence and the risks that remain.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>Why Security Evidence Needs Context</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=why-security-evidence-needs-context</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=why-security-evidence-needs-context</guid>
+      <description>A document is not proof by itself. Relevance, scope, freshness and clear validation all matter in security assurance.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>Practical AI Governance Starts with Knowing Where AI Is Used</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=practical-ai-governance-for-security-teams</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=practical-ai-governance-for-security-teams</guid>
+      <description>A practical starting point for managing AI risk: understand the use case, protect data, verify outputs and assign ownership.</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>Football Teaches Us That Progress Is Built Before Match Day</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-lessons-in-consistency-and-resilience</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-lessons-in-consistency-and-resilience</guid>
+      <description>Consistency, resilience, trust and everyday preparation matter as much as the final score.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>GRC Is More Than Just Compliance</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=grc-is-more-than-compliance</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=grc-is-more-than-compliance</guid>
+      <description>Good governance, risk management and compliance help organizations make better decisions and build trust.</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>Why Security Questionnaires Matter</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=security-questionnaires-why-they-matter</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=security-questionnaires-why-they-matter</guid>
+      <description>A security questionnaire is a structured way to understand how an organization protects information.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>AI and the Next Chapter of Cybersecurity</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-and-the-next-chapter-of-cybersecurity</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-and-the-next-chapter-of-cybersecurity</guid>
+      <description>AI is changing how security teams detect, investigate and explain risk, while introducing new questions of its own.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+<item>
+      <title>What Football Teaches Us About Leadership</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=what-football-teaches-us-about-leadership</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=what-football-teaches-us-about-leadership</guid>
+      <description>A football team is a reminder that leadership is built through trust, preparation, accountability and decisions under pressure.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0545</pubDate>
+    </item>
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+    __ITEMS__
+      __ITEMS__
 </channel>
 </rss>
