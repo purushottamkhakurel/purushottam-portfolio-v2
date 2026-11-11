@@ -95,4 +95,4 @@ No plan can predict every incident. A good one does something more useful: it gi
 ## Further reading
 
 - [NIST SP 800-61 Rev. 3: Incident Response Recommendations and Considerations for Cybersecurity Risk Management](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
-- [CISA Tabletop Exercise Packages](https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages)
+- [CISA Tabletop Exercise Packages](https://www.cisa.gov/sites/default/files/2023-01/2_-_ctep_exercise_planner_handbook_2021_final_508.pdf)
