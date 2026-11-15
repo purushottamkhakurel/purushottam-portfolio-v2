@@ -5,8 +5,15 @@
     <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/blog.html</link>
     <description>Personal notes on cybersecurity, GRC, AI and football by Purushottam Khakurel.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 08:35:00 +0545</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:51:00 +0545</lastBuildDate>
     <atom:link href="https://purushottamkhakurel.github.io/purushottam-portfolio-v2/rss.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <item>
+      <title>AI Agents Need Their Own Identity, Not Your Admin Access</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-agents-need-their-own-identity-and-limited-access</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-agents-need-their-own-identity-and-limited-access</guid>
+      <description>As AI agents gain access to business tools and data, security starts with clear identities, limited permissions, approval boundaries and useful audit trails.</description>
+      <pubDate>Sun, 15 Nov 2026 08:51:00 +0545</pubDate>
+    </item>
         <item>
       <title>An Incident Response Plan Is Only as Good as Its First Decisions</title>
       <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=incident-response-plan-first-decisions</link>
@@ -84,14 +91,14 @@
       <description>A football team is a reminder that leadership is built through trust, preparation, accountability and decisions under pressure.</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0545</pubDate>
     </item>
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-    __ITEMS__
-      __ITEMS__
+
+
+
+
+
+
+
+
+
 </channel>
 </rss>

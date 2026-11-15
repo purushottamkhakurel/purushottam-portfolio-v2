@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-agents-need-their-own-identity-and-limited-access",
+    "title": "AI Agents Need Their Own Identity, Not Your Admin Access",
+    "date": "2026-11-15",
+    "category": "AI",
+    "excerpt": "As AI agents gain access to business tools and data, security starts with clear identities, limited permissions, approval boundaries and useful audit trails.",
+    "readingTime": 5,
+    "file": "ai-agents-need-their-own-identity-and-limited-access.md"
+  },
+  {
     "slug": "incident-response-plan-first-decisions",
     "title": "An Incident Response Plan Is Only as Good as Its First Decisions",
     "date": "2026-11-11",
