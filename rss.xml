@@ -5,8 +5,15 @@
     <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/blog.html</link>
     <description>Personal notes on cybersecurity, GRC, AI and football by Purushottam Khakurel.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:51:00 +0545</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:00:00 +0545</lastBuildDate>
     <atom:link href="https://purushottamkhakurel.github.io/purushottam-portfolio-v2/rss.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <item>
+      <title>Football Stats Need Context: What the Numbers Don't Tell You</title>
+      <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-stats-need-context-before-conclusions</link>
+      <guid isPermaLink="true">https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=football-stats-need-context-before-conclusions</guid>
+      <description>Possession, shots, pass accuracy and expected goals can explain parts of a match, but each statistic needs context before it can support a conclusion.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0545</pubDate>
+    </item>
     <item>
       <title>AI Agents Need Their Own Identity, Not Your Admin Access</title>
       <link>https://purushottamkhakurel.github.io/purushottam-portfolio-v2/article.html?slug=ai-agents-need-their-own-identity-and-limited-access</link>
